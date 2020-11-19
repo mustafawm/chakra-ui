@@ -17,6 +17,8 @@ styles for non-keyboard interactions.
 
 ```bash
 # as a dependency
+npm i focus-visible
+# or
 yarn add focus-visible
 
 # at the root of your application
